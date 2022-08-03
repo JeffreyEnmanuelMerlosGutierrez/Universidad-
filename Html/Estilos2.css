@@ -1,0 +1,122 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+} 
+
+img {
+
+      
+    margin: 20px;
+    border-radius: 50px;
+    
+}
+
+.contenedor img{
+float: left;
+margin-right: 20px;
+margin-bottom: 20px;
+margin: 30px;
+}
+
+.p{
+    font-size:larger;
+    text-align: lef;
+    margin: 10px;
+}
+
+.relleno{
+    text-align: left;
+    font-size: larger;
+}
+
+.container-all img{ 
+
+    float: left;
+    
+    }
+    
+    h1{text-align: center; background-color: black; color: white; padding: 20px;}
+    
+    nav ul {
+    background-color: grey ; ; width: 100%; list-style: none; text-align: center;
+    }
+    
+    nav li{
+        display: inline-flex; 
+    }
+    
+    nav a{
+        text-decoration: none; color: white; padding: 10px; width: 150;
+    }
+    
+    nav li:hover{background-color: black;}
+    
+    div#body{
+    
+      width: 600px;
+      min-height: 50px;
+      background-color: red;
+      border-radius: 5px;
+      overflow: hidden;
+      margin:auto;
+      
+    
+    }
+    
+    div.Apartado{
+        width: 600px;
+        min-height: 50px;
+        background-color: green;
+      
+    }
+    
+    div.titulo{
+        width: 600px;
+        height: 50px;
+        background-color: black ;
+        overflow: hidden;
+        border-bottom: 1px solid black;
+        text-align: center;
+    }
+    
+    p.titulo{
+    margin: 13px;
+    color:white;
+    font-style: initial;
+    }
+    
+    div.info{
+    
+    width: 600px;
+    height: 0px;
+    background-color:white;
+    overflow: hidden;
+    -webkit-transition: height 0.2s;
+    }
+    
+    p.info{
+        margin: 20px;
+        text-align: left;
+        color: black;
+    }
+    
+    div.Apartado:hover div.info {
+    
+        height: 180px;
+    }
+ 
+  
+    img {
+
+      
+        margin: 10px;
+        border-radius: 50px;
+        
+        
+    }
+
+div{
+    width: 99%;
+}
