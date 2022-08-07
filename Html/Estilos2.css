@@ -120,3 +120,24 @@ margin: 30px;
 div{
     width: 99%;
 }
+
+
+
+.imagenes{
+
+    float: left;
+}
+
+.letra{
+
+    margin: 20px;
+}
+
+.ultimo{
+
+    margin: 20px;
+}
+
+footer{
+   text-align: center;
+}
